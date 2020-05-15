@@ -5,6 +5,7 @@ Project to perform Sentiment Analysis on political content present in news feed
 - Clone this repository
 - Sign up on IBM Cloud Natural Language Processing to get API Key
 - Install ibm watson on system using pip install --upgrade ibm-watson
+- Install newsAPI using pip install newsapi-python
 
 ## How to run
 This project is done using python. Run the .py file to get the output.
