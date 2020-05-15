@@ -1,0 +1,300 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3408,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.649821,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.bbc.com/news/av/world-us-canada-52644735/robert-de-niro-on-coronavirus-lockdown-and-us-politics",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2022,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.428096,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://seths.blog/2020/05/understanding-dominance-and-affiliation-in-politics/",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4298,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.555016,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.cnn.com/2020/05/05/politics/white-house-coronavirus-task-force-winding-down/index.html",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5144,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.304746,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://earther.gizmodo.com/jay-inslees-climate-team-dropped-a-roadmap-for-a-post-c-1842872130",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5558,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.667437,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.economist.com/the-world-this-week/2020/04/25/politics-this-week",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5558,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.667437,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.economist.com/the-world-this-week/2020/04/25/politics-this-week",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5501,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.719104,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.economist.com/the-world-this-week/2020/05/07/politics-this-week",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5937,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.73429,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.economist.com/the-world-this-week/2020/05/02/politics-this-week",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5937,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.73429,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.economist.com/the-world-this-week/2020/05/02/politics-this-week",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5258,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.812595,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.economist.com/the-world-this-week/2020/05/16/politics-this-week",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5561,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.638779,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.economist.com/the-world-this-week/2020/04/18/politics-this-week",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6913,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.582222,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.newyorker.com/magazine/2020/05/04/pandemic-protests-and-politics",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6604,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.50879,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.cnn.com/2020/05/03/politics/us-election-2020-week-ahead/index.html",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3500,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.41886,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://www.cnn.com/2020/04/28/politics/diamond-silk-fox-news-donald-trump/index.html",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5076,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.632499,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.cnn.com/2020/04/27/politics/senate-majority-republicans-democrats/index.html",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1675,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.361278,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://www.cnn.com/2020/05/01/politics/mike-dewine-coronavirus-leadership-ohio/index.html",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5272,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.466268,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://www.cnn.com/2020/04/16/politics/biden-vp-vice-president-kamala-harris-amy-klobuchar/index.html",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4157,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.631373,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://www.cnn.com/2020/04/14/politics/ron-desantis-florida-coronavirus/index.html",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3296,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.599751,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://mashable.com/article/patriot-act-internet-history/?europe=true",
+  "language": "en"
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1557,
+    "features": 1
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.615316,
+      "label": "negative"
+    }
+  },
+  "retrieved_url": "https://mashable.com/video/trump-campaign-death-star-brad-parscale-stephen-colbert/?europe=true",
+  "language": "en"
+}
